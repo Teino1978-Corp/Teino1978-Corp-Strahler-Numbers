@@ -1,0 +1,1 @@
+This experiment is an evolution of the [previous](http://bl.ocks.org/fabiovalse/1b3d58804fe02c62679d) one. The links are shown as outcoming links (red) and incoming links (blue). Moreover, the size of the nodes describes the number of entities for a certain DBpedia Class.
